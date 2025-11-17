@@ -1,1 +1,1 @@
-# shell_01_scripts_b-sicos
+# shell_01_scripts_básicos
